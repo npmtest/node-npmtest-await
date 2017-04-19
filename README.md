@@ -1,4 +1,7 @@
-# test coverage for  [await (v0.2.6)](https://github.com/greim/await.js#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-await.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-await) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-await.svg)](https://travis-ci.org/npmtest/node-npmtest-await)
+# npmtest-await
+
+#### basic test coverage for  [await (v0.2.6)](https://github.com/greim/await.js#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-await.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-await) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-await.svg)](https://travis-ci.org/npmtest/node-npmtest-await)
+
 #### Set-theoretical promises
 
 [![NPM](https://nodei.co/npm/await.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/await)
